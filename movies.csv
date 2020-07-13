@@ -1,0 +1,438 @@
+Main_Genre,Genre_2,Genre_3,imdb_rating,length,rank_in_year,rating,studio,title,worldwide_gross,year
+Action,Adventure,Drama,7.4,135,1,3,Walt Disney Pictures,Black Panther,700059566,2018
+Action,Adventure,Sci-Fi,8.5,156,2,3,Walt Disney Pictures,Avengers: Infinity War,678815482,2018
+Animation,Action,Adventure,7.8,118,3,2,Pixar,Incredibles 2,608581744,2018
+Action,Adventure,Drama,6.2,129,4,3,Universal Pictures,Jurassic World: Fallen Kingdom,416769345,2018
+Action,Comedy,NA,7.8,119,5,4,20th Century Fox,Deadpool 2,318491426,2018
+Action,Adventure,Drama,7.9,147,6,3,Paramount Pictures,Mission: Impossible - Fallout,220159104,2018
+Action,Comedy,NA,7.2,118,7,3,Walt Disney Pictures,Ant-Man and the Wasp,216648740,2018
+Action,Adventure,Drama,7,135,8,3,Walt Disney Pictures,Solo: A Star Wars Story,213767512,2018
+Action,Adventure,Drama,6.9,112,9,3,Columbia Pictures,Venom,213030843,2018
+Music,Drama,NA,8.1,135,10,4,Warner Bros,A Star is Born ,199721727,2018
+Action,Adventure,Drama,7.2,152,1,3,Walt Disney Pictures,Star Wars: The Last Jedi,620181382,2017
+Music,Drama,NA,7.2,129,2,2,Walt Disney Pictures,Beauty and the Beast ,504014165,2017
+Action,Adventure,Drama,7.5,141,3,3,Warner Bros,Wonder Woman,412563408,2017
+Action,Adventure,Comedy,7,112,4,3,Sony Pictures,Jumanji: Welcome to the Jungle,404515480,2017
+Action,Adventure,Comedy,7.7,137,5,3,Walt Disney Pictures,Guardians of the Galaxy Vol. 2,389813101,2017
+Action,Adventure,Drama,7.5,133,6,3,Sony Pictures,Spider-Man: Homecoming,334201140,2017
+Horror,Drama,Mystery,7.4,135,7,4,Warner Bros,It,327481748,2017
+Action,Adventure,Drama,7.9,130,8,3,Walt Disney Pictures,Thor: Ragnarok,315058289,2017
+Animation,Comedy,NA,6.3,90,9,2,Universal Pictures,Despicable Me 3,264624300,2017
+Action,Adventure,Drama,6.5,110,10,3,Warner Bros,Justice League,229024295,2017
+Action,Adventure,Drama,7.8,133,1,3,Walt Disney Pictures,Rogue One: A Star Wars Story,532177324,2016
+Animation,Family,NA,7.3,100,2,2,Walt Disney Pictures,Finding Dory,486295561,2016
+Action,Adventure,Sci-Fi,7.8,146,3,3,Walt Disney Pictures,Captain America: Civil War,408084349,2016
+Animation,Comedy,NA,6.5,90,4,2,Universal Pictures,The Secret Life of Pets,368384330,2016
+Action,Adventure,Family,7.4,111,5,2,Walt Disney Pictures,The Jungle Book ,364001123,2016
+Action,Comedy,Adventure,8,103,6,4,20th Century Fox,Deadpool,363070709,2016
+Animation,Action,Adventure,8,108,7,2,Walt Disney Pictures,Zootopia,341268248,2016
+Action,Adventure,Sci-Fi,6.5,151,8,3,Warner Bros,Batman v Superman: Dawn of Justice,330360194,2016
+Action,Adventure,NA,6.1,123,9,3,Warner Bros,Suicide Squad,325100054,2016
+Animation,Music,Comedy,7.1,108,10,2,Universal Pictures,Sing,270395425,2016
+Action,Adventure,Fantasy,8,136,1,3,Walt Disney Pictures,Star Wars: The Force Awakens,936662225,2015
+Action,Adventure,Mystery,7,123,2,3,Universal Pictures,Jurassic World,652270625,2015
+Action,Adventure,Sci-Fi,7.4,141,3,3,Walt Disney Pictures,Avengers: Age of Ultron,459005868,2015
+Animation,Family,NA,8.2,94,4,2,Pixar,Inside Out,356461711,2015
+Action,Adventure,Mystery,7.2,140,5,3,Universal Pictures,Furious 7,353007020,2015
+Animation,Comedy,Family,6.4,91,6,2,Universal Pictures,Minions,336045770,2015
+Action,Adventure,Fantasy,6.6,137,7,3,Lionsgate Films,The Hunger Games: Mockingjay - Part 2,281723902,2015
+Sci-Fi,Fantasy,NA,8,164,8,3,20th Century Fox,The Martian,228433663,2015
+Romance,Fantasy,NA,6.9,105,9,2,Walt Disney Pictures,Cinderella,201151353,2015
+Action,Adventure,NA,6.8,150,10,3,Sony Pictures,Spectre,200074609,2015
+Sci-Fi,Adventure,Action,5.8,165,1,3,Paramount Pictures,Transformers: Age of Extinction,1091404499,2014
+Fantasy,Adventure,NA,7.5,144,2,3,Warner Bros,The Hobbit: The Battle of the Five Armies,955113783,2014
+Sci-Fi,Adventure,Action,8.1,121,3,3,Walt Disney Pictures,Guardians of the Galaxy,774176600,2014
+Fantasy,Adventure,Action,7.1,97,4,2,Walt Disney Pictures,Maleficent,758654942,2014
+Sci-Fi,Adventure,NA,6.8,123,5,3,Lionsgate Films,The Hunger Games: Mockingjay - Part 1,752100229,2014
+Sci-Fi,Adventure,Action,8.1,131,6,3,20th Century Fox,X-Men: Days of Future Past,748121534,2014
+Sci-Fi,Adventure,Action,7.8,136,7,3,Walt Disney Pictures,Captain America: The Winter Soldier,714766572,2014
+Fantasy,Adventure,Action,6.9,142,8,3,Columbia Pictures,The Amazing Spider-Man 2,709582323,2014
+Sci-Fi,Drama,Action,7.7,130,9,3,20th Century Fox,Dawn of the Planet of the Apes,708835589,2014
+Sci-Fi,Adventure,NA,8.7,169,10,3,Paramount Pictures,Interstellar,672974414,2014
+Comedy,Animation,Adventure,7.7,102,1,2,Walt Disney Pictures,Frozen,1274219009,2013
+Sci-Fi,Adventure,Action,7.3,130,2,3,Walt Disney Pictures,Iron Man 3,1215439994,2013
+Animation,Comedy,Animation,7.5,98,3,2,Universal Pictures,Despicable Me 2,970761885,2013
+Fantasy,Adventure,NA,8,161,4,3,Warner Bros,The Hobbit: The Desolation of Smaug,960366855,2013
+Adventure,Sci-Fi,NA,7.7,146,5,3,Lionsgate Films,The Hunger Games: Catching Fire,864912963,2013
+Thriller,Crime,Action,7.2,130,6,3,Universal Pictures,Fast & Furious 6,788679850,2013
+Comedy,Animation,Adventure,7.4,104,7,1,Walt Disney Pictures,Monsters University,743559607,2013
+Thriller,Sci-Fi,Western,7.9,91,8,3,Warner Bros,Gravity,716392705,2013
+Fantasy,Adventure,Action,7.2,143,9,3,Warner Bros,Man of Steel,668045518,2013
+Fantasy,Adventure,Action,7.1,112,10,3,Walt Disney Pictures,Thor: The Dark World,644783140,2013
+Sci-Fi,Adventure,Action,8.2,143,1,3,Walt Disney Pictures,The Avengers,1518594910,2012
+Thriller,Adventure,Action,7.8,143,2,3,Metro-Goldwyn-Mayer,Skyfall,1108561013,2012
+Thriller,Action,NA,8.5,165,3,3,Warner Bros,The Dark Knight Rises,1084439099,2012
+Fantasy,Adventure,NA,8,169,4,3,Warner Bros,The Hobbit: An Unexpected Journey,1017003568,2012
+Comedy,Animation,Adventure,6.7,88,5,2,20th Century Fox,Ice Age: Continental Drift,877244782,2012
+Fantasy,Drama,Adventure,5.6,115,6,3,Lionsgate Films,The Twilight Saga: Breaking Dawn - Part 2,829685377,2012
+Fantasy,Adventure,Action,7.1,136,7,3,Columbia Pictures,The Amazing Spider-Man,757930663,2012
+Comedy,Adventure,Animation,7,93,8,2,Paramount Pictures,Madagascar 3: Europe's Most Wanted,746921274,2012
+Sci-Fi,Adventure,NA,7.3,142,9,3,Lionsgate Films,The Hunger Games,691247768,2012
+Sci-Fi,Comedy,Action,6.9,106,10,3,Columbia Pictures,Men in Black 3,624026776,2012
+Thriller,Fantasy,Adventure,8.1,130,1,3,Warner Bros,Harry Potter and the Deathly Hallows - Part 2,1341511219,2011
+Sci-Fi,Adventure,Action,6.3,154,2,3,Paramount Pictures,Transformers: Dark of the Moon,1123794079,2011
+Fantasy,Adventure,Action,6.7,136,3,3,Walt Disney Pictures,Pirates of the Caribbean: On Stranger Tides,1045713802,2011
+Fantasy,Drama,Adventure,4.9,117,4,3,Lionsgate Films,The Twilight Saga: Breaking Dawn - Part 1,712171856,2011
+Thriller,Adventure,Action,7.4,133,5,3,Paramount Pictures,Mission: Impossible - Ghost Protocol,694713380,2011
+Animation,Adventure,Action,7.3,91,6,2,Paramount Pictures,Kung Fu Panda 2,665692281,2011
+Thriller,Crime,Action,7.3,131,7,3,Universal Pictures,Fast Five,626137675,2011
+Comedy,NA,NA,6.5,102,8,4,Warner Bros,The Hangover Part II,586764305,2011
+Comedy,Animation,Adventure,5.5,103,9,2,Columbia Pictures,The Smurfs,563749323,2011
+Comedy,Animation,Adventure,6.3,106,10,1,Walt Disney Pictures,Cars 2,559852396,2011
+Comedy,Animation,Adventure,8.4,103,1,1,Walt Disney Pictures,Toy Story 3,1063171911,2010
+Fantasy,Family,Adventure,6.5,108,2,2,Walt Disney Pictures,Alice in Wonderland,1025467110,2010
+Fantasy,Family,Adventure,7.7,146,3,3,Warner Bros,Harry Potter and the Deathly Hallows - Part 1,960283305,2010
+Sci-Fi,Mystery,Action,8.8,148,4,3,Warner Bros,Inception,825531030,2010
+Comedy,Animation,Adventure,6.4,93,5,2,Paramount Pictures,Shrek Forever After,752600867,2010
+Fantasy,Drama,Adventure,4.9,124,6,3,Lionsgate Films,The Twilight Saga: Eclipse,698491347,2010
+Sci-Fi,Adventure,Action,7.1,124,7,3,Paramount Pictures,Iron Man 2,623933331,2010
+Animation,Comedy,Animation,7.8,100,8,2,Walt Disney Pictures,Tangled,591794936,2010
+Animation,Comedy,Animation,7.7,95,9,2,Universal Pictures,Despicable Me,543113985,2010
+Animation,Animation,Adventure,8.2,98,10,2,Paramount Pictures,How to Train Your Dragon,494878759,2010
+Fantasy,Adventure,Action,7.9,162,1,3,20th Century Fox,Avatar,2749064328,2009
+Fantasy,Family,Adventure,7.5,153,2,2,Warner Bros,Harry Potter and the Half-Blood Prince,934416487,2009
+Animation,Adventure,Action,7,94,3,2,20th Century Fox,Ice Age: Dawn of the Dinosaurs,886686817,2009
+Sci-Fi,Adventure,Action,6,150,4,3,Paramount Pictures,Transformers: Revenge of the Fallen,836303693,2009
+Sci-Fi,Adventure,Action,5.8,158,5,3,Columbia Pictures,2012,769304749,2009
+Comedy,Animation,Adventure,8.3,96,6,2,Pixar,Up,731342744,2009
+Fantasy,Drama,Adventure,4.6,130,7,3,Lionsgate Films,The Twilight Saga: New Moon,709827462,2009
+Crime,Adventure,Action,7.6,128,8,3,Warner Bros,Sherlock Holmes,524028679,2009
+Thriller,Mystery,NA,6.7,138,9,3,Columbia Pictures,Angels & Demons,485930816,2009
+Comedy,NA,NA,7.8,100,10,4,Warner Bros,The Hangover,467483912,2009
+Drama,Crime,Action,9,152,1,3,Warner Bros,The Dark Knight,997000000,2008
+Adventure,Action,NA,6.2,122,2,3,Paramount Pictures,Indiana Jones and the Kingdom of the Crystal Skull,786636033,2008
+Animation,Adventure,Action,7.6,92,3,2,Paramount Pictures,Kung Fu Panda,631744560,2008
+Fantasy,Action,NA,6.5,92,4,3,Columbia Pictures,Hancock,624386746,2008
+Romance,Musical,Comedy,6.4,108,5,3,Universal Pictures,Mamma Mia!,609827661,2008
+Animation,Adventure,Action,6.7,89,6,2,Paramount Pictures,Madagascar: Escape 2 Africa,603900354,2008
+Adventure,Action,NA,6.7,106,7,3,Metro-Goldwyn-Mayer,Quantum of Solace,586090727,2008
+Sci-Fi,Adventure,Action,7.9,126,8,3,Paramount Pictures,Iron Man,585174222,2008
+Animation,Animation,Adventure,8.4,98,9,1,Pixar,WALL-E,521311860,2008
+Family,Adventure,Action,6.6,150,10,2,Walt Disney Pictures,The Chronicles of Narnia: Prince Caspian,419665568,2008
+Fantasy,Adventure,Action,7.1,169,1,3,Walt Disney Pictures,Pirates of the Caribbean: At World's End,963420425,2007
+Fantasy,Family,Adventure,7.4,138,2,3,Warner Bros,Harry Potter and the Order of the Phoenix,939885929,2007
+Adventure,Action,NA,6.2,139,3,3,Columbia Pictures,Spider-Man 3,890871626,2007
+Comedy,Animation,Adventure,6.1,93,4,2,DreamWorks,Shrek the Third,798958162,2007
+Sci-Fi,Adventure,Action,7.2,144,5,3,DreamWorks,Transformers,709709780,2007
+Animation,Comedy,Animation,8,111,6,1,Pixar,Ratatouille,623707397,2007
+Thriller,Sci-Fi,Drama,7.2,101,7,3,Warner Bros,I Am Legend,585349010,2007
+Comedy,Animation,Adventure,7.4,87,8,3,20th Century Fox,The Simpsons Movie,527071022,2007
+Thriller,Adventure,Action,6.5,124,9,2,Walt Disney Pictures,National Treasure: Book of Secrets,457364600,2007
+War,Fantasy,Action,7.8,117,10,4,Warner Bros,300,456068181,2007
+Fantasy,Adventure,Action,7.3,151,1,3,Walt Disney Pictures,Pirates of the Caribbean: Dead Man's Chest,1066179725,2006
+Thriller,Mystery,NA,6.5,149,2,3,Columbia Pictures,The Da Vinci Code,758239851,2006
+Animation,Adventure,Action,6.9,91,3,2,20th Century Fox,Ice Age: The Meltdown,660940780,2006
+Thriller,Adventure,Action,8,144,4,3,Metro-Goldwyn-Mayer,Casino Royale,599045960,2006
+Comedy,Adventure,Action,6.4,108,5,2,20th Century Fox,Night at the Museum,574480052,2006
+Comedy,Animation,Adventure,7.2,117,6,1,Pixar,Cars,461983149,2006
+Sci-Fi,Adventure,Action,6.8,104,7,3,20th Century Fox,X-Men: The Last Stand,459359555,2006
+Thriller,Adventure,Action,6.8,126,8,3,Paramount Pictures,Mission: Impossible III,397850012,2006
+Fantasy,Adventure,Action,6.1,154,9,3,Warner Bros,Superman Returns,391081192,2006
+Animation,Comedy,Animation,6.5,108,10,2,Warner Bros,Happy Feet,384335608,2006
+Fantasy,Family,Adventure,7.6,157,1,3,Warner Bros,Harry Potter and the Goblet of Fire,895921036,2005
+Fantasy,Adventure,Action,7.7,140,2,3,20th Century Fox,Star Wars Episode III: Revenge of the Sith,848754768,2005
+Fantasy,Family,Adventure,6.9,143,3,2,Walt Disney Pictures,The Chronicles of Narnia: The Lion the Witch and the Wardrobe,745011272,2005
+Thriller,Sci-Fi,Adventure,6.5,116,4,3,Paramount Pictures,War of the Worlds,591745540,2005
+Drama,Adventure,Action,7.3,187,5,3,Universal Pictures,King Kong,550517357,2005
+Comedy,Animation,Adventure,6.9,86,6,2,DreamWorks,Madagascar,532680671,2005
+Crime,Comedy,Action,6.5,120,7,3,20th Century Fox,Mr. & Mrs. Smith,478207520,2005
+Comedy,Adventure,Family,6.7,115,8,2,Warner Bros,Charlie and the Chocolate Factory,474968763,2005
+Adventure,Action,NA,8.3,140,9,3,Warner Bros,Batman Begins,372710015,2005
+Romance,Comedy,NA,6.7,118,10,3,Columbia Pictures,Hitch,368100420,2005
+Comedy,Animation,Adventure,7.2,93,1,2,DreamWorks,Shrek 2,919838758,2004
+Fantasy,Family,Adventure,7.8,142,2,2,Warner Bros,Harry Potter and the Prisoner of Azkaban,795634069,2004
+Adventure,Action,NA,7.3,127,3,3,Columbia Pictures,Spider-Man 2,783766341,2004
+Animation,Adventure,Action,8,115,4,2,Pixar,The Incredibles,631442092,2004
+Drama,NA,NA,7.1,127,5,4,Newmarket Films,The Passion of the Christ,611899420,2004
+Sci-Fi,Adventure,Action,6.4,124,6,3,20th Century Fox,The Day After Tomorrow,544272402,2004
+Romance,Comedy,NA,6.3,115,7,3,Universal Pictures,Meet the Fockers,516642939,2004
+Adventure,NA,NA,7.2,163,8,4,Warner Bros,Troy,497409852,2004
+Comedy,Adventure,Animation,6,90,9,2,DreamWorks,Shark Tale,367275019,2004
+Thriller,Crime,NA,6.4,125,10,3,Warner Bros,Ocean's Twelve,362744280,2004
+Fantasy,Adventure,Western,8.9,201,1,3,Warner Bros,The Lord of the Rings: The Return of the King,1119929521,2003
+Comedy,Animation,Adventure,8.2,100,2,1,Pixar,Finding Nemo,867893978,2003
+Sci-Fi,Action,NA,7.2,138,3,4,Warner Bros,The Matrix Reloaded,742128461,2003
+Fantasy,Adventure,NA,8.1,143,4,3,Walt Disney Pictures,Pirates of the Caribbean: The Curse of the Black Pearl,654264015,2003
+Fantasy,Drama,Comedy,6.7,101,5,3,Universal Pictures,Bruce Almighty,484592874,2003
+History,Drama,Action,7.7,154,6,4,Warner Bros,The Last Samurai,456758981,2003
+Sci-Fi,Action,NA,6.4,109,7,4,Warner Bros,Terminator 3: Rise of the Machines,433371112,2003
+Sci-Fi,Action,NA,6.7,129,8,4,Warner Bros,The Matrix Revolutions,427343298,2003
+Sci-Fi,Adventure,Action,7.5,134,9,3,20th Century Fox,X2,407711549,2003
+Crime,Comedy,Action,6.5,147,10,4,Columbia Pictures,Bad Boys II,273339556,2003
+Fantasy,Adventure,NA,8.7,179,1,3,Warner Bros,The Lord of the Rings: The Two Towers,926287400,2002
+Fantasy,Family,Adventure,7.3,161,2,2,Warner Bros,Harry Potter and the Chamber of Secrets,878643482,2002
+Adventure,Action,NA,7.3,121,3,3,Columbia Pictures,Spider-Man,821708551,2002
+Fantasy,Adventure,Action,6.7,142,4,2,20th Century Fox,Star Wars Episode II: Attack of the Clones,649398328,2002
+Fantasy,Comedy,Action,6,88,5,3,Columbia Pictures,Men in Black II,441818803,2002
+Crime,Adventure,Action,6.1,133,6,3,Metro-Goldwyn-Mayer,Die Another Day,431971116,2002
+Thriller,Sci-Fi,Drama,6.7,106,7,3,Walt Disney Pictures,Signs,408247917,2002
+Comedy,Animation,Adventure,7.6,81,8,2,20th Century Fox,Ice Age,383257136,2002
+Romance,Comedy,NA,6.6,95,9,2,IFC Films,My Big Fat Greek Wedding,368744044,2002
+Sci-Fi,Mystery,Action,7.7,145,10,3,DreamWorks,Minority Report,358372926,2002
+Fantasy,Family,Adventure,7.5,152,1,2,Warner Bros,Harry Potter and the Sorcerer's Stone,974733550,2001
+Fantasy,Adventure,NA,8.8,178,2,3,Warner Bros,The Lord of the Rings: The Fellowship of the Ring,870761744,2001
+Comedy,Animation,Adventure,8.1,92,3,1,Pixar,Monsters Inc.,525366597,2001
+Comedy,Animation,Adventure,7.9,90,4,2,DreamWorks,Shrek,484409218,2001
+Thriller,Crime,NA,7.8,116,5,3,Warner Bros,Ocean's Eleven,450717150,2001
+Romance,Drama,Action,6,183,6,3,Walt Disney Pictures,Pearl Harbor,449220945,2001
+Fantasy,Adventure,Action,6.3,130,7,3,Universal Pictures,The Mummy Returns,433013274,2001
+Sci-Fi,Adventure,Action,5.9,92,8,3,Universal Pictures,Jurassic Park III,368780809,2001
+Sci-Fi,Adventure,Action,5.7,119,9,3,20th Century Fox,Planet of the Apes,362211740,2001
+Thriller,Drama,Crime,6.7,131,10,4,Metro-Goldwyn-Mayer,Hannibal,351692268,2001
+Thriller,Adventure,Action,6,123,1,3,Paramount Pictures,Mission: Impossible II,546388105,2000
+Drama,Action,NA,8.5,155,2,4,DreamWorks,Gladiator,457640427,2000
+Drama,Adventure,NA,7.7,143,3,3,20th Century Fox,Cast Away,429632142,2000
+Romance,Fantasy,Comedy,6.4,127,4,3,Paramount Pictures,What Women Want,374111707,2000
+Animation,Animation,Adventure,6.4,82,5,2,Walt Disney Pictures,Dinosaur,349822765,2000
+Fantasy,Family,Comedy,6,104,6,2,Universal Pictures,How the Grinch Stole Christmas,345141403,2000
+Comedy,NA,NA,7,108,7,3,Universal Pictures,Meet the Parents,330444045,2000
+Drama,Adventure,Action,6.4,130,8,3,Warner Bros,The Perfect Storm,328718434,2000
+Sci-Fi,Adventure,Action,7.4,104,9,3,20th Century Fox,X-Men,296339527,2000
+Thriller,Horror,Drama,6.6,130,10,3,DreamWorks,What Lies Beneath,291420351,2000
+Fantasy,Adventure,Action,6.6,136,1,2,20th Century Fox,Star Wars Episode I: The Phantom Menace,924317558,1999
+Thriller,Mystery,Drama,8.2,107,2,3,Walt Disney Pictures,The Sixth Sense,672806292,1999
+Comedy,Animation,Adventure,7.9,92,3,1,Walt Disney Pictures,Toy Story 2,485015179,1999
+Sci-Fi,Action,NA,8.7,136,4,4,Warner Bros,The Matrix,460379930,1999
+Drama,Animation,Adventure,7.2,88,5,1,Walt Disney Pictures,Tarzan,448191819,1999
+Fantasy,Adventure,Action,7,125,6,3,Universal Pictures,The Mummy,415933406,1999
+Romance,Drama,Comedy,7,124,7,3,Universal Pictures,Notting Hill,363889678,1999
+Crime,Adventure,Action,6.4,128,8,3,Metro-Goldwyn-Mayer,The World Is Not Enough,361832400,1999
+Romance,Drama,NA,8.4,122,9,4,DreamWorks,American Beauty,356296601,1999
+Comedy,Adventure,Action,6.6,95,10,3,Warner Bros,Austin Powers: The Spy Who Shagged Me,312016858,1999
+Sci-Fi,Adventure,Action,6.6,151,1,3,Walt Disney Pictures,Armageddon,553709788,1998
+War,Drama,Action,8.6,169,2,4,DreamWorks,Saving Private Ryan,481840909,1998
+Thriller,Sci-Fi,Action,5.3,139,3,3,Sony Pictures,Godzilla,379014294,1998
+Romance,Comedy,NA,7.1,119,4,4,20th Century Fox,There's Something About Mary,369884651,1998
+Comedy,Animation,Adventure,7.2,95,5,1,Walt Disney Pictures,A Bug's Life,363398565,1998
+Sci-Fi,Drama,Action,6.1,120,6,3,DreamWorks,Deep Impact,349464664,1998
+Family,Animation,Adventure,7.5,88,7,1,Walt Disney Pictures,Mulan,304320254,1998
+Fantasy,Family,Comedy,5.3,85,8,3,20th Century Fox,Dr. Dolittle,294456605,1998
+Romance,Drama,Comedy,7.2,123,9,4,Universal Pictures,Shakespeare in Love,289317794,1998
+Thriller,Crime,Action,6.6,127,10,4,Warner Bros,Lethal Weapon 4,285444603,1998
+Romance,Drama,NA,7.7,194,1,3,Paramount Pictures,Titanic,1843201268,1997
+Sci-Fi,Adventure,Action,6.5,129,2,3,Universal Pictures,The Lost World: Jurassic Park,618638999,1997
+Sci-Fi,Comedy,NA,7.2,98,3,3,Columbia Pictures,Men in Black,589390539,1997
+Thriller,Adventure,Action,6.5,119,4,3,Metro-Goldwyn-Mayer,Tomorrow Never Dies,333011068,1997
+Drama,Adventure,Action,6.4,124,5,4,Columbia Pictures,Air Force One,315156409,1997
+Romance,Drama,Comedy,7.8,139,6,3,Sony Pictures,As Good as It Gets,314178011,1997
+Comedy,NA,NA,6.8,86,7,3,Universal Pictures,Liar Liar,302710615,1997
+Romance,Comedy,NA,6.3,105,8,3,Sony Pictures,My Best Friend's Wedding,299288605,1997
+Sci-Fi,Adventure,Action,7.6,126,9,3,Columbia Pictures,The Fifth Element,263920180,1997
+Music,Drama,Comedy,7.2,91,10,4,20th Century Fox,The Full Monty,257850122,1997
+Sci-Fi,Adventure,Action,6.9,145,1,3,20th Century Fox,Independence Day,817400891,1996
+Drama,Adventure,Action,6.2,113,2,3,Warner Bros,Twister,494471524,1996
+Thriller,Adventure,Action,7.1,110,3,3,Paramount Pictures,Mission: Impossible,457696359,1996
+Thriller,Adventure,Action,7.4,136,4,4,Walt Disney Pictures,The Rock,335062621,1996
+Family,Drama,Animation,6.9,91,5,1,Walt Disney Pictures,The Hunchback of Notre Dame,325338851,1996
+Family,Comedy,Adventure,5.6,103,6,1,Walt Disney Pictures,101 Dalmatians,320689294,1996
+Thriller,Crime,NA,6.6,121,7,4,Walt Disney Pictures,Ransom,309492681,1996
+Sci-Fi,Romance,Comedy,5.5,95,8,3,Universal Pictures,The Nutty Professor,273961019,1996
+Romance,Drama,Comedy,7.3,139,9,4,Sony Pictures,Jerry Maguire,273552592,1996
+Thriller,Drama,Action,6,115,10,4,Warner Bros,Eraser,242295562,1996
+Thriller,Adventure,Action,7.6,131,1,4,20th Century Fox,Die Hard with a Vengeance,366101766,1995
+Comedy,Animation,Adventure,8.3,81,2,1,Walt Disney Pictures,Toy Story,361958736,1995
+History,Drama,Adventure,7.6,140,3,2,Universal Pictures,Apollo 13,353471312,1995
+Thriller,Adventure,Action,7.2,130,4,3,Metro-Goldwyn-Mayer,GoldenEye,352194034,1995
+Drama,Animation,Adventure,6.6,81,5,1,Walt Disney Pictures,Pocahontas,346079773,1995
+Fantasy,Adventure,Action,5.4,121,6,3,Warner Bros,Batman Forever,336529144,1995
+Thriller,Drama,Thriller,8.7,127,7,4,Warner Bros,Seven,327311859,1995
+Fantasy,Family,Comedy,6,100,8,2,Universal Pictures,Casper,287928194,1995
+Sci-Fi,Adventure,Action,6.1,135,9,3,Universal Pictures,Waterworld,264218220,1995
+Fantasy,Family,Adventure,6.8,104,10,2,Sony Pictures,Jumanji,262797249,1995
+Drama,Animation,Adventure,8.5,89,1,1,Walt Disney Pictures,The Lion King,768625889,1994
+Romance,Drama,NA,8.8,142,2,3,Paramount Pictures,Forrest Gump,677387716,1994
+Thriller,Comedy,Action,7.2,141,3,4,20th Century Fox,True Lies,378882411,1994
+Fantasy,Crime,Comedy,6.8,101,4,3,Warner Bros,The Mask,351583407,1994
+Thriller,Crime,Action,7.2,116,5,4,20th Century Fox,Speed,350448145,1994
+Fantasy,Family,Comedy,4.8,91,6,2,Universal Pictures,The Flintstones,341631208,1994
+Comedy,NA,NA,7.3,107,7,3,Warner Bros,Dumb and Dumber,247275374,1994
+Romance,Drama,Comedy,7.1,117,8,4,Universal Pictures,Four Weddings and a Funeral,245700832,1994
+Romance,Horror,NA,7.6,123,9,4,Warner Bros,Interview with the Vampire: The Vampire Chronicles,223664608,1994
+Drama,Crime,Action,6.9,141,10,3,Paramount Pictures,Clear and Present Danger,215887717,1994
+Thriller,Sci-Fi,Adventure,8,127,1,3,Universal Pictures,Jurassic Park,914691118,1993
+Family,Drama,Comedy,6.9,125,2,3,20th Century Fox,Mrs. Doubtfire,441286195,1993
+Crime,Adventure,Action,7.8,130,3,3,Warner Bros,The Fugitive,368875760,1993
+History,Drama,Biography,8.9,195,4,4,Universal Pictures,Schindler's List,321306305,1993
+Thriller,Mystery,Drama,6.8,154,5,4,Paramount Pictures,The Firm,270248367,1993
+Romance,Drama,NA,5.8,117,6,4,Paramount Pictures,Indecent Proposal,266614059,1993
+Thriller,Adventure,Action,6.3,112,7,4,Sony Pictures,Cliffhanger,255000211,1993
+Romance,Drama,Comedy,6.8,105,8,2,Sony Pictures,Sleepless in Seattle,227799884,1993
+Drama,NA,NA,7.7,125,9,3,Sony Pictures,Philadelphia,206678440,1993
+Drama,Crime,Action,6.5,141,10,3,Warner Bros,The Pelican Brief,195268056,1993
+Comedy,Animation,Adventure,8,90,1,1,Walt Disney Pictures,Aladdin,504050219,1992
+Music,Drama,Action,6.1,129,2,4,Warner Bros,The Bodyguard,411006740,1992
+Family,Comedy,Adventure,6.5,120,3,2,20th Century Fox,Home Alone 2: Lost in New York,358994850,1992
+Thriller,Mystery,Drama,6.9,127,4,4,Sony Pictures,Basic Instinct,352927224,1992
+Thriller,Crime,Action,6.7,118,5,4,Warner Bros,Lethal Weapon 3,321731527,1992
+Action,NA,NA,7,126,6,3,Warner Bros,Batman Returns,266822354,1992
+Thriller,Drama,NA,7.6,138,7,4,Columbia Pictures,A Few Good Men,243240178,1992
+Music,Comedy,NA,6.2,100,8,2,Walt Disney Pictures,Sister Act,231605150,1992
+Romance,Horror,NA,7.5,128,9,4,Columbia Pictures,Bram Stoker's Dracula,215862692,1992
+Music,Comedy,NA,7,94,10,3,Paramount Pictures,Wayne's World,183097323,1992
+Sci-Fi,Action,NA,8.5,137,1,4,Sony Pictures,Terminator 2: Judgment Day,519843345,1991
+Drama,Adventure,Action,6.9,143,2,3,Warner Bros,Robin Hood: Prince of Thieves,390493908,1991
+Fantasy,Family,Animation,8,84,3,1,Walt Disney Pictures,Beauty and the Beast,351863363,1991
+Family,Comedy,Adventure,6.7,142,4,2,Sony Pictures,Hook,300854823,1991
+Thriller,NA,NA,8.6,118,5,4,Metro-Goldwyn-Mayer,The Silence of the Lambs,272742922,1991
+Thriller,History,Drama,8,189,6,4,Warner Bros,JFK,205405498,1991
+Fantasy,Comedy,NA,6.8,99,7,3,Paramount Pictures,The Addams Family,191502426,1991
+Thriller,Crime,NA,7.3,128,8,4,Universal Pictures,Cape Fear,182291969,1991
+Comedy,NA,NA,6.7,84,9,3,20th Century Fox,Hot Shots!,181096164,1991
+Comedy,Western,NA,6.7,113,10,3,Columbia Pictures,City Slickers,179033791,1991
+Romance,Fantasy,Drama,7,127,1,3,Paramount Pictures,Ghost,505702588,1990
+Family,Comedy,NA,7.4,103,2,2,20th Century Fox,Home Alone,476684675,1990
+Romance,Comedy,NA,6.9,119,3,4,Walt Disney Pictures,Pretty Woman,463406268,1990
+Drama,Western,Adventure,8,181,4,3,Metro-Goldwyn-Mayer,Dances with Wolves,424208848,1990
+Action,Sci-Fi,Mystery,7.5,113,5,4,Sony Pictures,Total Recall,261336002,1990
+Romance,Comedy,Adventure,7.4,118,6,2,Universal Pictures,Back to the Future Part III,244527583,1990
+Thriller,Action,NA,7.1,124,7,4,20th Century Fox,Die Hard 2,240031094,1990
+Thriller,Drama,Crime,6.9,127,8,4,Warner Bros,Presumed Innocent,221303188,1990
+Comedy,Adventure,Action,6.7,93,9,2,Warner Bros,Teenage Mutant Ninja Turtles,201965915,1990
+Crime,Comedy,Action,6,111,10,3,Universal Pictures,Kindergarten Cop,201957688,1990
+Adventure,Action,NA,8.3,127,1,3,Paramount Pictures,Indiana Jones and the Last Crusade,474171806,1989
+Adventure,Action,NA,7.6,126,2,3,Warner Bros,Batman,411348924,1989
+Sci-Fi,Comedy,Adventure,7.8,108,3,2,Universal Pictures,Back to the Future Part II,331950002,1989
+Romance,Comedy,NA,5.8,93,4,3,Sony Pictures,Look Who's Talking,296999813,1989
+Drama,NA,NA,8,128,5,2,Walt Disney Pictures,Dead Poets Society,235860116,1989
+Thriller,Crime,Action,7.2,114,6,4,Warner Bros,Lethal Weapon 2,227853986,1989
+Family,Comedy,Adventure,6.2,93,7,2,Walt Disney Pictures,Honey I Shrunk the Kids,222724172,1989
+Horror,Fantasy,Comedy,6.5,108,8,2,Columbia Pictures,Ghostbusters II,215394738,1989
+Fantasy,Family,Animation,7.6,83,9,1,Walt Disney Pictures,The Little Mermaid,184155863,1989
+War,Drama,Biography,7.2,145,10,4,Universal Pictures,Born on the Fourth of July,161001698,1989
+Drama,NA,NA,8,133,1,4,Metro-Goldwyn-Mayer,Rain Man,172825435,1988
+Crime,Comedy,Animation,7.7,104,2,2,Walt Disney Pictures,Who Framed Roger Rabbit,156452370,1988
+Romance,Comedy,NA,6.9,116,3,4,Paramount Pictures,Coming to America,128152301,1988
+Fantasy,Drama,Comedy,7.3,104,4,2,20th Century Fox,Big,114968774,1988
+Comedy,NA,NA,5.9,107,5,2,Universal Pictures,Twins,111938388,1988
+Comedy,Adventure,Action,5.5,108,6,2,Paramount Pictures,"""Crocodile"" Dundee II",109306210,1988
+Thriller,Action,NA,8.3,131,7,4,20th Century Fox,Die Hard,83008852,1988
+Crime,Comedy,NA,7.6,85,8,3,Paramount Pictures,The Naked Gun: From the Files of Police Squad!,78756177,1988
+Romance,Drama,Comedy,5.8,104,9,4,Walt Disney Pictures,Cocktail,78222753,1988
+Comedy,NA,NA,7.4,92,10,2,Warner Bros,Beetlejuice,73707461,1988
+Family,Drama,Comedy,5.8,102,1,2,Walt Disney Pictures,Three Men and a Baby,167780960,1987
+Thriller,Drama,NA,6.9,119,2,4,Paramount Pictures,Fatal Attraction,156645693,1987
+Crime,Comedy,Action,6.4,100,3,4,Paramount Pictures,Beverly Hills Cop II,153665036,1987
+War,Drama,Comedy,7.3,121,4,4,Walt Disney Pictures,Good Morning Vietnam,123922370,1987
+Romance,Drama,Comedy,7.1,102,5,2,Metro-Goldwyn-Mayer,Moonstruck,80640528,1987
+Thriller,Drama,Crime,8,119,6,4,Paramount Pictures,The Untouchables,76270454,1987
+Comedy,NA,NA,6.4,111,7,3,Universal Pictures,The Secret of My Success,66995000,1987
+Thriller,Comedy,NA,6.6,117,8,4,Walt Disney Pictures,Stakeout,65673230,1987
+Thriller,Crime,Action,7.6,110,9,4,Warner Bros,Lethal Weapon,65207127,1987
+Horror,Fantasy,Comedy,6.5,118,10,4,Warner Bros,The Witches of Eastwick,63766510,1987
+Romance,Drama,Action,6.8,110,1,2,Paramount Pictures,Top Gun,176781728,1986
+Adventure,Comedy,Crime,6.5,97,2,3,Paramount Pictures,"""Crocodile"" Dundee",174803506,1986
+War,Drama,NA,8.1,120,3,4,Metro-Goldwyn-Mayer,Platoon,138530565,1986
+Romance,Family,Action,5.8,113,4,2,Columbia Pictures,The Karate Kid Part II,115103979,1986
+Comedy,Adventure,Action,7.3,119,5,2,Paramount Pictures,Star Trek IV: The Voyage Home,109713132,1986
+Sport,Romance,Comedy,6.5,96,6,3,Metro-Goldwyn-Mayer,Back to School,91258000,1986
+Sci-Fi,Adventure,Action,8.4,137,7,4,20th Century Fox,Aliens,86160248,1986
+Drama,Comedy,Animation,6.9,80,8,1,Universal Pictures,An American Tail,84542002,1986
+Comedy,Adventure,Action,5.8,94,9,3,Paramount Pictures,The Golden Child,79817937,1986
+Crime,Comedy,NA,6.8,93,10,4,Walt Disney Pictures,Ruthless People,71624879,1986
+Romance,Comedy,Adventure,8.5,116,1,2,Universal Pictures,Back to the Future,210609762,1985
+Thriller,Adventure,Action,6.4,96,2,4,Sony Pictures,Rambo: First Blood Part II,150415432,1985
+Sport,Drama,NA,6.7,91,3,2,Metro-Goldwyn-Mayer,Rocky IV,127873716,1985
+Drama,NA,NA,7.8,154,4,3,Warner Bros,The Color Purple,94175854,1985
+Romance,Drama,Biography,7.2,161,5,2,Universal Pictures,Out Of Africa,87071205,1985
+Sci-Fi,NA,NA,6.6,117,6,3,20th Century Fox,Cocoon,85313124,1985
+Comedy,Adventure,Action,6,106,7,2,20th Century Fox,The Jewel of the Nile,75973200,1985
+Romance,Drama,Crime,7.5,112,8,4,Paramount Pictures,Witness,68706993,1985
+Family,Comedy,Adventure,7.8,114,9,2,Warner Bros,The Goonies,61389680,1985
+Comedy,Adventure,NA,6.3,102,10,2,Warner Bros,Spies Like Us,60088980,1985
+Fantasy,Comedy,NA,7.8,105,1,2,Columbia Pictures,Ghostbusters,238632124,1984
+Comedy,Action,NA,7.3,105,2,4,Paramount Pictures,Beverly Hills Cop,234760478,1984
+Action,Adventure,Drama,7.6,118,3,2,Paramount Pictures,Indiana Jones and the Temple of Doom,179870271,1984
+Horror,Comedy,NA,7.2,106,4,2,Warner Bros,Gremlins,153083102,1984
+Family,Drama,Action,7.2,126,5,2,Columbia Pictures,The Karate Kid,90815558,1984
+Comedy,NA,NA,6.6,96,6,4,Warner Bros,Police Academy,81198894,1984
+Romance,Music,Drama,6.4,107,7,4,Paramount Pictures,Footloose,80035402,1984
+Sci-Fi,Action,NA,8.1,107,8,4,Metro-Goldwyn-Mayer,The Terminator,78400000,1984
+Comedy,Adventure,Action,6.9,106,9,2,20th Century Fox,Romancing the Stone,78371200,1984
+Sci-Fi,Adventure,Action,6.6,105,10,2,Paramount Pictures,Star Trek III: The Search for Spock,76572238,1984
+Fantasy,Adventure,Action,8.4,134,1,2,Lionsgate Films,Star Wars Episode VI: Return of the Jedi,252583617,1983
+Drama,Comedy,NA,7.4,132,2,4,Paramount Pictures,Terms of Endearment,108423489,1983
+Romance,Music,Drama,6.1,95,3,4,Paramount Pictures,Flashdance,92921203,1983
+Comedy,NA,NA,7.5,116,4,4,Paramount Pictures,Trading Places,90404800,1983
+Thriller,Sci-Fi,NA,7.1,114,5,2,Metro-Goldwyn-Mayer,WarGames,79567667,1983
+Thriller,Adventure,Action,6.6,131,6,2,Metro-Goldwyn-Mayer,Octopussy,67800000,1983
+Thriller,Action,NA,6.6,117,7,4,Warner Bros,Sudden Impact,67642693,1983
+Romance,Music,Drama,4.4,93,8,2,Paramount Pictures,Staying Alive,64892670,1983
+Drama,Comedy,Western,6.4,91,9,2,20th Century Fox,Mr. Mom,64783827,1983
+Drama,Crime,Comedy,6.8,99,10,4,Warner Bros,Risky Business,63541777,1983
+Sci-Fi,Family,Western,7.9,115,1,2,Universal Pictures,E.T. the Extra-Terrestrial,359197037,1982
+Romance,Comedy,NA,7.4,116,2,2,Columbia Pictures,Tootsie,177200000,1982
+Romance,Drama,NA,7,124,3,4,Paramount Pictures,An Officer and a Gentleman,129795554,1982
+Sport,Drama,NA,6.7,99,4,2,Metro-Goldwyn-Mayer,Rocky III,124146897,1982
+Comedy,NA,NA,6.1,94,5,4,20th Century Fox,Porky's,105492483,1982
+Drama,Adventure,Action,7.7,113,6,2,Paramount Pictures,Star Trek II: The Wrath of Khan,78912963,1982
+Crime,Comedy,Action,6.9,96,7,4,Paramount Pictures,48 Hrs.,78868508,1982
+Horror,NA,NA,7.4,114,8,2,Metro-Goldwyn-Mayer,Poltergeist,76606280,1982
+Music,Comedy,NA,5.7,114,9,4,Universal Pictures,The Best Little Whorehouse in Texas,69701637,1982
+Family,Drama,Comedy,6.5,127,10,2,Columbia Pictures,Annie,57059003,1982
+Adventure,Action,NA,8.6,115,1,2,Paramount Pictures,Raiders of the Lost Ark,212222025,1981
+Drama,NA,NA,7.7,109,2,2,Universal Pictures,On Golden Pond,119285432,1981
+Sci-Fi,Romance,Action,6.8,127,3,2,Warner Bros,Superman II,108185706,1981
+Romance,Comedy,NA,6.9,97,4,2,Warner Bros,Arthur,95461682,1981
+War,Comedy,NA,6.9,106,5,4,Columbia Pictures,Stripes,85297000,1981
+Comedy,Action,NA,6.1,95,6,2,20th Century Fox,The Cannonball Run,72179579,1981
+Sport,History,Drama,7.2,119,7,2,Warner Bros,Chariots of Fire,58972904,1981
+Thriller,Adventure,Action,6.8,127,8,2,Metro-Goldwyn-Mayer,For Your Eyes Only,54812802,1981
+Drama,Comedy,NA,7.2,107,9,2,Universal Pictures,The Four Seasons,50427646,1981
+Fantasy,Comedy,Adventure,7,110,10,2,Embassy Pictures,Time Bandits,42365581,1981
+Adventure,Action,Fantasy,8.8,124,1,2,20th Century Fox,Star Wars Episode V: The Empire Strikes Back,209398025,1980
+Comedy,NA,NA,6.6,110,2,2,20th Century Fox,9 to 5,103290500,1980
+Crime,Comedy,NA,6.8,111,3,4,Columbia Pictures,Stir Crazy,101300000,1980
+Comedy,NA,NA,7.8,88,4,2,Paramount Pictures,Airplane!,83453539,1980
+Comedy,Action,NA,6,116,5,2,Warner Bros,Any Which Way You Can,70687344,1980
+War,Comedy,NA,6,109,6,4,Warner Bros,Private Benjamin,69847348,1980
+Music,Drama,Biography,7.5,124,7,2,Universal Pictures,Coal Miner's Daughter,67182787,1980
+Crime,Comedy,Action,5.1,100,8,2,Universal Pictures,Smokey and the Bandit II,66132626,1980
+Romance,Drama,Adventure,5.7,104,9,4,Columbia Pictures,The Blue Lagoon,58853106,1980
+Crime,Comedy,Action,8,133,10,4,Universal Pictures,The Blues Brothers,57229890,1980
+Drama,NA,NA,7.8,105,1,3,Columbia Pictures,Kramer vs. Kramer,106260000,1979
+Horror,Drama,NA,6.2,117,2,4,Metro-Goldwyn-Mayer,The Amityville Horror,86432520,1979
+Sport,Drama,Action,7.1,119,3,2,Metro-Goldwyn-Mayer,Rocky II,85182160,1979
+War,Drama,NA,8.5,153,4,4,Metro-Goldwyn-Mayer,Apocalypse Now,83471511,1979
+Sci-Fi,Mystery,Adventure,6.4,132,5,2,Paramount Pictures,Star Trek: The Motion Picture,82258456,1979
+Sci-Fi,Horror,NA,8.5,117,6,4,20th Century Fox,Alien,80931801,1979
+Romance,Comedy,NA,6,122,7,4,Warner Bros,10,74865517,1979
+Comedy,NA,NA,7.2,94,8,4,Universal Pictures,The Jerk,73691419,1979
+Crime,Adventure,Action,6.2,126,9,2,Metro-Goldwyn-Mayer,Moonraker,70308099,1979
+Family,Comedy,Adventure,7.7,95,10,1,Metro-Goldwyn-Mayer,The Muppet Movie,65200000,1979
+Romance,Musical,NA,7.2,110,1,3,Paramount Pictures,Grease,159978870,1978
+Sci-Fi,Drama,Action,7.3,143,2,2,Warner Bros,Superman,134218018,1978
+Comedy,NA,NA,7.6,109,3,4,Universal Pictures,National Lampoon's Animal House,120091123,1978
+Comedy,Action,NA,6.2,114,4,2,Warner Bros,Every Which Way but Loose,85196485,1978
+Sport,Romance,Comedy,6.9,101,5,2,Paramount Pictures,Heaven Can Wait,81640278,1978
+Comedy,Action,NA,6.2,99,6,2,Warner Bros,Hooper,78000000,1978
+Thriller,Horror,NA,5.7,116,7,2,Universal Pictures,Jaws 2,77737272,1978
+Horror,Drama,NA,8,127,8,4,Metro-Goldwyn-Mayer,Dawn of the Dead,59020957,1978
+Thriller,Comedy,Crime,6.7,99,9,2,Metro-Goldwyn-Mayer,Revenge of the Pink Panther,49579269,1978
+War,Drama,NA,8.2,182,10,4,Universal Pictures,The Deer Hunter,48979328,1978
+Fantasy,Adventure,Action,8.7,121,1,2,Lionsgate Films,Star Wars,307263857,1977
+Romance,Comedy,Action,6.8,96,2,2,Universal Pictures,Smokey and the Bandit,126737428,1977
+Sci-Fi,Drama,NA,7.7,137,3,2,Columbia Pictures,Close Encounters of the Third Kind,116395460,1977
+Romance,Drama,Comedy,7.4,111,4,2,Metro-Goldwyn-Mayer,The Goodbye Girl,102000000,1977
+Romance,Music,Drama,6.8,118,5,4,Paramount Pictures,Saturday Night Fever,94213184,1977
+Fantasy,Comedy,NA,6.5,98,6,2,Warner Bros,Oh God!,51061196,1977
+War,History,Drama,7.4,175,7,2,Metro-Goldwyn-Mayer,A Bridge Too Far,50750000,1977
+Thriller,Mystery,Adventure,6.1,123,8,2,Columbia Pictures,The Deep,47346365,1977
+Thriller,Adventure,Action,7.1,125,9,2,Metro-Goldwyn-Mayer,The Spy Who Loved Me,46838673,1977
+Romance,Drama,Comedy,8.1,93,10,2,Metro-Goldwyn-Mayer,Annie Hall,38251425,1977
+Sport,Drama,NA,8.1,119,1,2,Metro-Goldwyn-Mayer,Rocky,117235147,1976
+History,Documentary,NA,7,27,2,1,National Air and Space Museum,To Fly!,86600000,1976
+Romance,Music,Drama,6.5,139,3,4,Warner Bros,A Star Is Born,80000000,1976
+Thriller,Drama,NA,8,138,4,4,Warner Bros,All the President's Men,70600000,1976
+Thriller,Horror,Drama,7.6,111,5,4,20th Century Fox,The Omen,60922980,1976
+Family,Documentary,NA,4.6,99,6,1,Sunn Classic Pictures,In Search of Noah's Ark,55700000,1976
+Horror,Fantasy,Adventure,5.8,134,7,2,Paramount Pictures,King Kong,52614445,1976
+Crime,Comedy,Action,6.9,114,8,2,20th Century Fox,Silver Streak,51079064,1976
+Thriller,Crime,Action,6.8,96,9,4,Warner Bros,The Enforcer,46236000,1976
+History,Drama,Action,6.7,132,10,2,Universal Pictures,Midway,43220000,1976
+Drama,Crime,NA,8.1,125,4,4,Warner Bros,Dog Day Afternoon,50000000,1975
+Romance,Drama,NA,6.3,109,5,4,Columbia Pictures,Shampoo,49407734,1975
+Thriller,Crime,Comedy,7.1,113,6,1,Metro-Goldwyn-Mayer,The Return of the Pink Panther,41833347,1975
+Music,Drama,Comedy,6.4,136,7,2,Columbia Pictures,Funny Lady,39000000,1975
+Family,Western,Comedy,6.2,100,8,1,Walt Disney Pictures,The Apple Dumpling Gang,36853000,1975
+Drama,NA,NA,6,88,9,2,Columbia Pictures,Aloha Bobby and Rose,35000000,1975
+Drama,Western,War,6.4,103,10,2,Universal Pictures,The Other Side of the Mountain,34673100,1975
